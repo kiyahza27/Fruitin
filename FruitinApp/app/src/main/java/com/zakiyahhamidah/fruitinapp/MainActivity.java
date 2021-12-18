@@ -176,11 +176,6 @@ public class MainActivity extends AppCompatActivity {
 
     public class FruitAdapter extends BaseAdapter implements Filterable {
 
-        //public static final int SPAN_COUNT_ONE = 1;
-       // public static final int SPAN_COUNT_THREE = 3;
-       // private static final int VIEW_TYPE_SMALL = 1;
-       // private static final int VIEW_TYPE_BIG = 2;
-
         private List<DataResponse> dataResponseList;
         private List<DataResponse> dataResponseListFiltered;
         private List<Data> dataList;
