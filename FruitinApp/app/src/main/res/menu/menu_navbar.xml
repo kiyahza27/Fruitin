@@ -16,4 +16,11 @@
         android:icon="@drawable/ic_bookmarks_white"
         app:showAsAction="always">
     </item>
+
+    <item
+        android:id="@+id/menu_switch"
+        android:title="switch"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_view_list">
+    </item>
 </menu>

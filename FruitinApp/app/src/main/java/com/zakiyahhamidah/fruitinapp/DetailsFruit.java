@@ -23,8 +23,8 @@ public class DetailsFruit extends AppCompatActivity implements View.OnClickListe
     Data dataList;
 
     TextView tvFruitName;
-    //TextView tvFamily;
-    //TextView tvGenus;
+    TextView tvFamily;
+    TextView tvGenus;
     TextView tvCarbo;
     TextView tvProtein;
     TextView tvCalories;
@@ -38,14 +38,14 @@ public class DetailsFruit extends AppCompatActivity implements View.OnClickListe
 
         getSupportActionBar().setTitle("Detail Fruit");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        //getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         btn = (MaterialButton) findViewById(R.id.btn_bookmarks);
         btn.setOnClickListener(this);
 
         tvFruitName = findViewById(R.id.fruitname);
-        //tvFamily = findViewById(R.id.family);
-        //tvGenus = findViewById(R.id.genus);
+        tvFamily = findViewById(R.id.family);
+        tvGenus = findViewById(R.id.genus);
         tvCarbo = findViewById(R.id.carbo);
         tvProtein = findViewById(R.id.protein);
         tvCalories = findViewById(R.id.calories);
@@ -59,8 +59,8 @@ public class DetailsFruit extends AppCompatActivity implements View.OnClickListe
             dataList = (Data) intent.getSerializableExtra("image");
 
             tvFruitName.setText(dataResponse.getName());
-            //tvFamily.setText("Family: " + dataResponse.getFamily());
-            //tvGenus.setText("Genus: " + dataResponse.getGenus());
+            tvFamily.setText("Family: " + dataResponse.getFamily());
+            tvGenus.setText("Genus: " + dataResponse.getGenus());
             tvCarbo.setText(String.valueOf(dataResponse.getNutritions().getCarbohydrates()) + " gr");
             tvProtein.setText(String.valueOf(dataResponse.getNutritions().getProtein()) + " gr");
             tvCalories.setText(String.valueOf(dataResponse.getNutritions().getCalories()) + " gr");

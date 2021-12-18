@@ -6,11 +6,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Adapter;
 import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.Filter;
@@ -39,15 +41,15 @@ public class MainActivity extends AppCompatActivity {
     private List<Data> dataList = new ArrayList<>();
 
     GridView gridView;
+    //SearchView searchView;
     FruitAdapter fruitAdapter;
-    ImageAdapter imageAdapter;
 
     int images[] = {R.drawable.a,R.drawable.b, R.drawable.c,R.drawable.d,
             R.drawable.e,R.drawable.f, R.drawable.g,R.drawable.h,
             R.drawable.i,R.drawable.j, R.drawable.k,R.drawable.l,
             R.drawable.m,R.drawable.n, R.drawable.o,R.drawable.p,
             R.drawable.q,R.drawable.r, R.drawable.s,R.drawable.t,
-            R.drawable.u,R.drawable.v, R.drawable.w,R.drawable.x,
+            R.drawable.u,R.drawable.v, R.drawable.w, R.drawable.x,
             R.drawable.y,R.drawable.z, R.drawable.zz};
 
     @Override
@@ -57,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         gridView = findViewById(R.id.gridView);
 
-        fruitAdapter = new FruitAdapter(dataResponseList, this);
+        fruitAdapter = new FruitAdapter(dataResponseList, dataList, this);
         gridView.setAdapter(fruitAdapter);
 
         getAllData();
@@ -66,9 +68,6 @@ public class MainActivity extends AppCompatActivity {
             Data data = new Data(images[i]);
             dataList.add(data);
         }
-
-        imageAdapter = new ImageAdapter(dataList, this);
-        gridView.setAdapter(imageAdapter);
 
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -91,16 +90,19 @@ public class MainActivity extends AppCompatActivity {
 
         MenuItem menuItem = menu.findItem(R.id.search_fruit);
         SearchView searchView = (SearchView) menuItem.getActionView();
+        searchView.setMaxWidth(Integer.MAX_VALUE);
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
             public boolean onQueryTextSubmit(String query) {
+
                 return false;
             }
 
             @Override
             public boolean onQueryTextChange(String newText) {
-                fruitAdapter.getFilter().filter(newText);
+                Log.e("TAG", "search ==>" + newText);
 
+                fruitAdapter.getFilter().filter(newText);
                 return true;
             }
         });
@@ -122,9 +124,22 @@ public class MainActivity extends AppCompatActivity {
             startActivityForResult(launchNewIntent, 0);
             return true;
         }
-
+        if (item.getItemId() == R.id.menu_switch) {
+            gridView.setNumColumns(1);
+            item.setIcon(R.drawable.ic_grid_white);
+            switchcolumn(item);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
+
+   private void switchcolumn(MenuItem item) {
+        if(gridView.getNumColumns() == 1){
+            item.setIcon(R.drawable.ic_view_list);
+            gridView.setNumColumns(2);
+        }
+    }
+
 
     public void getAllData(){
         Call<List<DataResponse>> DataResponse = ApiClient.getInterface().getAllData();
@@ -134,16 +149,13 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(Call<List<com.zakiyahhamidah.fruitinapp.Model.DataResponse>> call, Response<List<com.zakiyahhamidah.fruitinapp.Model.DataResponse>> response) {
 
                 if(response.isSuccessful()) {
-                    String message = "Request Successfull";
-                    Toast.makeText(MainActivity.this,message,Toast.LENGTH_SHORT).show();
+                    //String message = "Loading";
+                    //Toast.makeText(MainActivity.this,message,Toast.LENGTH_SHORT).show();
 
                     dataResponseList = response.body();
 
-                    FruitAdapter fruitAdapter = new FruitAdapter(dataResponseList,MainActivity.this);
-                   // ImageAdapter imageAdapter = new ImageAdapter(dataResponseList,MainActivity.this);
-
+                    FruitAdapter fruitAdapter = new FruitAdapter(dataResponseList, dataList,MainActivity.this);
                     gridView.setAdapter(fruitAdapter);
-                    //gridView.setAdapter(imageAdapter);
 
                 }else{
                     String message = "An Error....";
@@ -163,16 +175,21 @@ public class MainActivity extends AppCompatActivity {
 
     public class FruitAdapter extends BaseAdapter implements Filterable {
 
+        //public static final int SPAN_COUNT_ONE = 1;
+       // public static final int SPAN_COUNT_THREE = 3;
+       // private static final int VIEW_TYPE_SMALL = 1;
+       // private static final int VIEW_TYPE_BIG = 2;
+
         private List<DataResponse> dataResponseList;
         private List<DataResponse> dataResponseListFiltered;
-        //private List<Data> dataList;
+        private List<Data> dataList;
         private Context context;
         private LayoutInflater layoutInflater;
 
-        public FruitAdapter(List<DataResponse> dataResponseList, Context context){
+        public FruitAdapter(List<DataResponse> dataResponseList, List<Data> dataList, Context context){
             this.dataResponseList = dataResponseList;
             this.dataResponseListFiltered = dataResponseList;
-            //this.dataList = dataList;
+            this.dataList = dataList;
             this.context = context;
             this.layoutInflater = (LayoutInflater) context.getSystemService(LAYOUT_INFLATER_SERVICE);
         }
@@ -202,8 +219,8 @@ public class MainActivity extends AppCompatActivity {
             TextView textView = view.findViewById(R.id.nama);
 
             textView.setText(dataResponseListFiltered.get(i).getName());
-            //ImageView imageView = view.findViewById(R.id.img_fruit);
-            //imageView.setImageResource(dataList.get(i).getImage());
+            ImageView imageView = view.findViewById(R.id.img_fruit);
+            imageView.setImageResource(dataList.get(i).getImage());
 
             return view;
         }
@@ -212,78 +229,38 @@ public class MainActivity extends AppCompatActivity {
         public Filter getFilter() {
             Filter filter = new Filter() {
                 @Override
-                protected FilterResults performFiltering(CharSequence constraint) {
+                protected FilterResults performFiltering(CharSequence charSequence) {
                     FilterResults filterResults = new FilterResults();
 
-                    if(constraint == null || constraint.length() == 0){
-                        filterResults.count = dataResponseList.size();
-                        filterResults.values = dataResponseList;
+                    if(charSequence == null ||charSequence.length() == 0){
+                        filterResults.count = dataResponseListFiltered.size();
+                        filterResults.values = dataResponseListFiltered;
                     }else{
-                        String searchStr = constraint.toString().toLowerCase();
+                        String searchStr = charSequence.toString().toLowerCase();
                         List<DataResponse> resultData = new ArrayList<>();
 
-                        for(DataResponse dataResponse: dataResponseList){
+                        for(DataResponse dataResponse: dataResponseListFiltered){
 
-                            if(dataResponse.getName().contains(searchStr)){
+                            if(dataResponse.getName().toLowerCase().contains(searchStr)){
                                 resultData.add(dataResponse);
                             }
-
-                            filterResults.count = resultData.size();
-                            filterResults.values = resultData;
                         }
+
+                        filterResults.count = resultData.size();
+                        filterResults.values = resultData;
                     }
 
                     return filterResults;
                 }
 
                 @Override
-                protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
-                    dataResponseListFiltered = (List<DataResponse>) filterResults.values;
+                protected void publishResults(CharSequence constraint, FilterResults filterResults) {
+                    dataResponseList = (List<DataResponse>) filterResults.values;
                     notifyDataSetChanged();
 
                 }
             };
-
             return filter;
         }
     }
-
-    public class ImageAdapter extends BaseAdapter{
-
-        private List<Data> dataList;
-        private List<Data> dataListFiltered;
-        private Context context;
-
-        public ImageAdapter(List<Data> dataModelList, Context context){
-            this.dataList = dataModelList;
-            this.dataListFiltered = dataModelList;
-            this.context = context;
-        }
-
-        @Override
-        public int getCount() {
-            return dataListFiltered.size();
-        }
-
-        @Override
-        public Object getItem(int i) {
-            return null;
-        }
-
-        @Override
-        public long getItemId(int i) {
-            return i;
-        }
-
-        @Override
-        public View getView(int i, View convertView, ViewGroup parent) {
-            View view = getLayoutInflater().inflate(R.layout.row_items, null);
-
-            ImageView imageView = view.findViewById(R.id.img_fruit);
-            imageView.setImageResource(dataListFiltered.get(i).getImage());
-
-            return view;
-        }
-    }
-
 }
