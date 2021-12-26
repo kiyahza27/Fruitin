@@ -1,0 +1,503 @@
+1
+00:00:09,589 --> 00:00:13,337
+Zaki: Welcome to Cindi Tri Fitikasari
+
+2
+00:00:15,078 --> 00:00:24,797
+Zaki: Thank you for being available to take part in user testing today, which is Saturday, December 25, 2021
+
+3
+00:00:25,440 --> 00:00:32,835
+Zaki: First, introduce my name, Zakiyah Hamidah, a computer science student from Jakarta State University
+
+4
+00:00:34,514 --> 00:00:39,012
+Zaki: First - first I will explain about this fruitin application
+
+5
+00:00:39,812 --> 00:00:45,373
+Zaki: this fruitin application is an application that displays the nutritional value of various fruits
+
+6
+00:00:45,762 --> 00:00:51,563
+Zaki: This application will help users to find some nutritional content in fruits
+
+7
+00:00:53,085 --> 00:00:59,213
+Zaki: Then, first of all I will explain the user testing scenario today
+
+8
+00:01:00,074 --> 00:01:05,858
+Zaki: Later, after the introduction and also after this explanation
+
+9
+00:01:06,123 --> 00:01:09,824
+Zaki: I will ask some basic questions
+
+10
+00:01:09,974 --> 00:01:16,425
+Zaki: Then after that, there will be time for you to share your smartphone display screen
+
+11
+00:01:16,393 --> 00:01:19,323
+Zaki: and run the fruitin application
+
+12
+00:01:19,817 --> 00:01:27,095
+Zaki: Then after that, I will ask your opinion and ask some questions about the fruitin application
+
+13
+00:01:28,106 --> 00:01:33,070
+Zaki: So let's start today's user testing with basic questions
+
+14
+00:01:34,397 --> 00:01:38,570
+Zaki: first of all, can you introduce yourself first?
+
+15
+00:01:38,632 --> 00:01:48,663
+Zaki: Starting from your name, age, occupation, domicile, play store email address, type of cellphone, android version of your cellphone?
+
+16
+00:01:52,845 --> 00:01:55,983
+Cindi: introduce my name is Cindi Tri Fitikasari
+
+17
+00:01:57,248 --> 00:02:02,923
+Cindi: I am currently a student at the State University of Jakarta majoring in Computer Science
+
+18
+00:02:02,977 --> 00:02:07,677
+Cindi: and domiciled in East Jakarta, Ciracas
+
+19
+00:02:08,408 --> 00:02:11,462
+Cindi: Then for the type of Android cellphone version 11
+
+20
+00:02:12,577 --> 00:02:14,802
+Zaki: The email address for the play store?
+
+21
+00:02:15,562 --> 00:02:21,122
+Cindi: Her email address is cindirifs@gmail.com
+
+22
+00:02:22,875 --> 00:02:25,372
+Zaki: Okay, let's move on to the next question
+
+23
+00:02:25,792 --> 00:02:29,522
+Zaki: Do you or your family like fruit?
+
+24
+00:02:31,222 --> 00:02:34,618
+Cindi: Yes, I happen to like fruit at home
+
+25
+00:02:36,143 --> 00:02:38,671
+Cindi: Maybe almost everyone likes fruit
+
+26
+00:02:40,951 --> 00:02:45,111
+Zaki: Then, what is the favorite fruit for Cindi and Cinda's family?
+
+27
+00:02:48,020 --> 00:02:54,451
+Cindi: maybe your favorite fruit is the one you often make at home, like oranges or melons
+
+28
+00:02:55,411 --> 00:02:56,783
+Cindi: And........
+
+29
+00:03:00,361 --> 00:03:01,613
+Cindi: Banana
+
+30
+00:03:02,580 --> 00:03:03,290
+Zaki: Okay
+
+31
+00:03:03,910 --> 00:03:09,660
+Zaki: Then, how often do cindi and cindi's family eat fruit every day?
+
+32
+00:03:11,810 --> 00:03:14,337
+Cindi: You could say quite often or every day
+
+33
+00:03:17,217 --> 00:03:23,571
+Zaki: Then, does Cindi often remind others to eat fruit?
+
+34
+00:03:25,097 --> 00:03:28,653
+Cindi: If that's not the case, because it depends on the individual itself
+
+35
+00:03:28,662 --> 00:03:31,633
+CIndi: So never remind others
+
+36
+00:03:34,240 --> 00:03:42,649
+Zaki: Then, does Cindi know the nutritional value of the fruits she consumes?
+
+37
+00:03:44,633 --> 00:03:48,199
+CIndi: As for the content of the fruit, maybe I only know the basics
+
+38
+00:03:50,069 --> 00:03:51,708
+Cindi: Like oranges contain vitamin C
+
+39
+00:03:51,700 --> 00:03:54,706
+Cindi: Don't know calories etc.
+
+40
+00:03:54,720 --> 00:03:58,188
+Cindi: I only know the basics that are usually mentioned
+
+41
+00:04:01,367 --> 00:04:02,518
+Cindi: I don't know much about it
+
+42
+00:04:02,929 --> 00:04:03,438
+Zaki: Okay
+
+43
+00:04:04,430 --> 00:04:09,399
+Zaki: The last question, Has cindi ever been or is she currently following a diet program?
+
+44
+00:04:09,637 --> 00:04:14,165
+Zaki: If yes, what food or fruit does Cindi consume while on a diet?
+
+45
+00:04:16,202 --> 00:04:19,160
+Cindi: I happen to have never been on a diet
+
+46
+00:04:20,730 --> 00:04:24,543
+Cindi: Never participated in the program either
+
+47
+00:04:25,740 --> 00:04:26,753
+Zaki: Okay, fine
+
+48
+00:04:28,002 --> 00:04:30,300
+Zaki: Okay, since the question is done
+
+49
+00:04:30,608 --> 00:04:32,909
+Zaki: time to share screen
+
+50
+00:04:32,990 --> 00:04:37,024
+Zaki: So, I'm giving you a chance to share screen
+
+51
+00:04:37,193 --> 00:04:40,644
+Zaki: and install the fruitin application from the play store
+
+52
+00:04:40,733 --> 00:04:43,581
+ZAki: Then, run it on your smartphone
+
+53
+00:04:45,571 --> 00:04:50,134
+Cindi: OK, does this share screen have to be installed or when you install the application?
+
+54
+00:04:50,593 --> 00:04:53,124
+Zaki: from scratch install it
+
+55
+00:05:16,741 --> 00:05:18,160
+Cindi: Have you performed yet?
+
+56
+00:05:18,210 --> 00:05:18,790
+Zaki: Already
+
+57
+00:05:54,946 --> 00:05:57,697
+Zaki: You can explore the app
+
+58
+00:05:58,266 --> 00:05:59,710
+Zaki: How are the features,...
+
+59
+00:06:01,112 --> 00:06:05,680
+Zaki: You can share your opinion, either criticism or suggestions about the application
+
+60
+00:06:09,952 --> 00:06:10,558
+Cindy: Okay
+
+61
+00:06:23,587 --> 00:06:25,588
+Cindi: This is not all the fruit, right?
+
+62
+00:06:25,648 --> 00:06:30,358
+Cindi: I mean, there's something that doesn't exist like that
+
+63
+00:06:31,148 --> 00:06:34,569
+Zaki: Yes, the fruit list isn't complete yet
+
+64
+00:06:40,616 --> 00:06:43,745
+Zaki: There's only what's written on the app
+
+65
+00:06:47,353 --> 00:06:48,645
+Cindi: this is clicked
+
+66
+00:06:48,959 --> 00:06:49,855
+Zaki: Yes you can
+
+67
+00:07:24,708 --> 00:07:26,858
+Cindi: If you go to bookmarks, it doesn't exist, right?
+
+68
+00:07:27,806 --> 00:07:32,489
+Zaki: oh yeah maybe there is still a problem with the bookmarks feature
+
+69
+00:07:41,608 --> 00:07:42,531
+Cindy: Yes already
+
+70
+00:07:44,820 --> 00:07:46,001
+Cindi: I have tried
+
+71
+00:07:46,669 --> 00:07:52,483
+Zaki: since you've tried it, I'll ask you what you think about this fruitin app
+
+72
+00:08:04,891 --> 00:08:09,596
+Cindi: Maybe his opinion was that there were some fruits that weren't there yet
+
+73
+00:08:10,400 --> 00:08:18,091
+Cindi: but maybe later with the passage of time the list of fruits can be added
+
+74
+00:08:20,560 --> 00:08:23,251
+Cindi: For the appearance it's good
+
+75
+00:08:24,551 --> 00:08:25,418
+Cindi: simple
+
+76
+00:08:26,667 --> 00:08:32,016
+Cindi: immediately there is a list of pictures of the fruit and the name of the fruit
+
+77
+00:08:37,305 --> 00:08:40,426
+Cindi: here is the name of the family and the genus
+
+78
+00:08:43,565 --> 00:08:45,082
+Cindi: any info on carbohydrates and others
+
+79
+00:08:45,172 --> 00:08:51,262
+Cindi: Maybe for people who don't know.....
+
+80
+00:08:53,325 --> 00:08:57,186
+Cindi: how much does our body need for carbohydrates and protein
+
+81
+00:08:57,386 --> 00:08:59,686
+Cindi: Maybe the information needs to be added
+
+82
+00:09:00,435 --> 00:09:07,576
+Cindi: Because if it's just information like this it might be considered
+
+83
+00:09:10,043 --> 00:09:12,219
+Cindi: just for info
+
+84
+00:09:15,783 --> 00:09:16,465
+Zaki: Okay
+
+85
+00:09:16,869 --> 00:09:22,830
+Zaki: Then, in your opinion, which features have problems or problems with the application?
+
+86
+00:09:25,859 --> 00:09:31,166
+Cindi: The first one has a bookmarks feature, which is adding fruit to bookmarks
+
+87
+00:09:33,422 --> 00:09:35,754
+Cindi: It looks like there was a crash
+
+88
+00:09:36,584 --> 00:09:41,116
+Zaki: Maybe you can try again, because it looks like it's loading
+
+89
+00:09:46,480 --> 00:09:49,016
+Zaki: So it seems a bit slow to respond
+
+90
+00:09:50,066 --> 00:09:51,216
+Cindy: That's right
+
+91
+00:09:55,444 --> 00:09:57,028
+Cindi: Can you do this search or not?
+
+92
+00:10:05,111 --> 00:10:05,850
+Cindy: Not yet
+
+93
+00:10:05,961 --> 00:10:09,270
+Zaki: Yes, it seems that there are still problems with this search feature
+
+94
+00:10:17,317 --> 00:10:28,769
+Zaki: Then is the flow in this application easy to understand or is it still complicated?
+
+95
+00:10:30,774 --> 00:10:38,833
+Cindi: For the plot, because this is just to provide information about the nutritional fruits
+
+96
+00:10:39,603 --> 00:10:41,453
+Cindi: Pretty easy to understand
+
+97
+00:10:55,681 --> 00:10:57,411
+Zaki: Ok, thanks for the suggestion
+
+98
+00:10:58,475 --> 00:11:02,947
+Zaki: then for the view, you think it's good enough, right?
+
+99
+00:11:04,048 --> 00:11:06,017
+Cindi: Yes, it's good enough to see
+
+100
+00:11:06,456 --> 00:11:07,817
+CIndi: The colors match too
+
+101
+00:11:13,799 --> 00:11:19,542
+Zaki: Then, do you think this application is useful enough to use?
+
+102
+00:11:21,961 --> 00:11:22,679
+Cindi: Yes
+
+103
+00:11:23,308 --> 00:11:25,619
+Cindi: To display information is enough
+
+104
+00:11:26,828 --> 00:11:30,539
+Cindi: but maybe in the future more information can be added
+
+105
+00:11:34,560 --> 00:11:35,565
+Zaki: That's enough
+
+106
+00:11:36,534 --> 00:11:45,195
+Zaki: Can you give a rating or comment on the play store for this fruitin application?
+
+107
+00:11:47,144 --> 00:11:48,862
+Cindi: Now or how?
+
+108
+00:11:49,521 --> 00:11:50,552
+Zaki: Yes now
+
+109
+00:13:04,964 --> 00:13:05,548
+Cindy: Already
+
+110
+00:13:05,624 --> 00:13:09,078
+Zaki: Ok, thanks to cindi for the rating
+
+111
+00:13:10,677 --> 00:13:12,592
+Cindi: Can this stop share screen?
+
+112
+00:13:12,948 --> 00:13:16,192
+Zaki: Oh yes you can stop sharing the screen
+
+113
+00:13:24,004 --> 00:13:24,522
+Zaki: Okay
+
+114
+00:13:25,571 --> 00:13:30,952
+Zaki: Maybe I will summarize your opinion earlier
+
+115
+00:13:31,472 --> 00:13:37,322
+Zaki: Maybe you said earlier that the search and bookmarks features are still having problems
+
+116
+00:13:38,101 --> 00:13:50,918
+Zaki: Then, you also give suggestions to add information related to nutrition for our body
+
+117
+00:13:52,548 --> 00:13:57,032
+Zaki: and also suggest adding to the fruit list for more
+
+118
+00:13:57,831 --> 00:13:58,922
+Zaki: Is it true?
+
+119
+00:13:59,922 --> 00:14:00,722
+CIndi: That's right
+
+120
+00:14:10,652 --> 00:14:15,041
+Zaki: Thank you cindi for the criticism and suggestions on the fruitin application
+
+121
+00:14:16,201 --> 00:14:17,851
+Cindi: Iya sama - sama zakiyah
+
+122
+00:14:19,730 --> 00:14:23,077
+Zaki: Because today's user testing session is over
+
+123
+00:14:24,077 --> 00:14:27,327
+Zaki: I once again thank cindi for her availability
+
+124
+00:14:27,527 --> 00:14:31,737
+Zaki: more or less sorry, wassalamualaikum wr.wb
+
+125
+00:14:32,927 --> 00:14:35,225
+Cindi: Waalaikumsalam wr.wb
+
+126
+00:14:35,725 --> 00:14:36,565
+Zaki: Thank you cindi
