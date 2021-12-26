@@ -23,7 +23,7 @@ Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitina
        Status: Mahasiswa
        Tanggal UT: Sabtu, 25 Desember 2021
    
- * User Profile 3 - Link Record 
+ * User Profile 3 - [Link Record](https://youtu.be/3IuhyjUD9A0)
  
        Nama: Cindi Tri Fitikasari
        Umur: 21 tahun
