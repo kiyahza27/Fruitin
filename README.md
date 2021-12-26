@@ -9,29 +9,26 @@ Fruitin is an application that displays the nutrition value of various fruits. T
 Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitinapp
 
 ## User Tester Profile
- * User Profile - 1
+ * User Profile 1 - Link Record : https://youtu.be/24NfbzG4L8c 
  
        Nama: Latifatul Fitri      
        Umur: 24 tahun
        Pekerjaan: Customer Service
        Tanggal UT: Sabtu, 25 Desember 2021
-       Link Record : https://youtu.be/24NfbzG4L8c
    
- * User Profile - 2
+ * User Profile 2 - Link Record: https://youtu.be/_D9ab3CKZzM
 
        Nama: Wardah Nabila Rusyda
        Umur: 22 tahun
        Status: Mahasiswa
        Tanggal UT: Sabtu, 25 Desember 2021
-       Link Record: https://youtu.be/_D9ab3CKZzM
    
- * User Profile - 3 
+ * User Profile 3 - Link Record 
  
        Nama: Cindi Tri Fitikasari
        Umur: 21 tahun
        Status: Mahasiswa
        Tanggal UT: Sabtu, 25 Desember 2021
-       Link Record 
 
 ## Design  
 ![Image of UI Design](https://github.com/kiyahza27/Fruitin/blob/main/Screenshots/fruitin%20UI%20design.png)
