@@ -1,0 +1,511 @@
+1
+00:00:05,410 --> 00:00:07,809
+Zaki: Welcome to Latifatul Fitri
+
+2
+00:00:08,189 --> 00:00:14,802
+Zaki: Thank you for being available to join the user testing session today
+
+3
+00:00:15,641 --> 00:00:21,385
+Zaki: Introduce my name is Zakiyah Hamidah, a computer science student from Jakarta State University
+
+4
+00:00:21,935 --> 00:00:26,722
+Zaki: Today, we will do a user testing session
+
+5
+00:00:28,272 --> 00:00:33,912
+Zaki: namely, user testing on the fruitin application which was developed by myself
+
+6
+00:00:34,771 --> 00:00:42,005
+Zaki: Before starting, I will explain the scenario of today's user testing session
+
+7
+00:00:42,615 --> 00:00:51,235
+Zaki: First of all, later I will give some basic questions to latifa as a respondent
+
+8
+00:00:51,435 --> 00:00:59,074
+Zaki: Then after that, I will ask Latifa to share your smartphone display screen
+
+9
+00:00:59,884 --> 00:01:04,201
+Zaki: and ask you to download fruitin app from play store
+
+10
+00:01:04,549 --> 00:01:16,494
+Zaki: Then you can run the application on your smartphone and after that I will ask for opinions, either criticism or suggestions
+
+11
+00:01:16,543 --> 00:01:20,399
+Zaki: and also give you a question regarding the fruitin application
+
+12
+00:01:21,028 --> 00:01:23,328
+Zaki: Is it clear, latifa?
+
+13
+00:01:25,627 --> 00:01:26,609
+Latifa: Already
+
+14
+00:01:26,807 --> 00:01:34,259
+Zaki: Okay, so I'll just start today's user testing with some basic questions
+
+15
+00:01:34,658 --> 00:01:41,415
+Zaki: First of all, could you introduce yourself first? starting with name, age
+
+16
+00:01:41,443 --> 00:01:49,615
+Zaki: occupation, domicile, play store email address, phone type, android version level of your cellphone?
+
+17
+00:01:50,965 --> 00:01:54,589
+Latifa: ok, introduce my name is Latifatul Fitri
+
+18
+00:01:55,358 --> 00:02:00,218
+Latifa: I am 24 years old and my current job is as a Customer Service
+
+19
+00:02:00,928 --> 00:02:04,899
+Latifa: My domicile is in the mill, East Jakarta
+
+20
+00:02:05,499 --> 00:02:09,679
+Latifa: my play store email address is tipahtipeh9@gmail.com
+
+21
+00:02:09,877 --> 00:02:16,736
+Latifa: My phone type is Android Samsung version Andorid 11
+
+22
+00:02:18,123 --> 00:02:19,105
+Zaki: Okay fine
+
+23
+00:02:19,205 --> 00:02:25,613
+Zaki: Next question, Do you or your family like fruit? and can you give the reason?
+
+24
+00:02:26,753 --> 00:02:31,073
+Latifa: I like it, because my family and I really like fruit
+
+25
+00:02:31,222 --> 00:02:36,313
+Latifa: Every day or every week there is fruit consumption
+
+26
+00:02:36,383 --> 00:02:40,873
+Latifa: because fruit is complementary and for health too
+
+27
+00:02:42,332 --> 00:02:43,003
+Zaki: Okay
+
+28
+00:02:43,201 --> 00:02:49,684
+Zaki: Then, do you often eat fruit? if so, how often do you or your family eat fruit?
+
+29
+00:02:50,962 --> 00:02:53,094
+Latifa: Personally it's rare
+
+30
+00:02:53,151 --> 00:02:58,492
+Latifa: But my family eats fruit almost every week
+
+31
+00:03:00,721 --> 00:03:05,002
+Zaki: What fruit do you or your family eat often?
+
+32
+00:03:06,381 --> 00:03:15,948
+Latifa: at home it's usually papaya, avocado, watermelon
+
+33
+00:03:18,447 --> 00:03:23,180
+Zaki: Then, do you often remind others to consume fruits?
+
+34
+00:03:25,708 --> 00:03:28,009
+Latifa: Often eats fruit
+
+35
+00:03:30,328 --> 00:03:30,983
+Zaki: Okay
+
+36
+00:03:31,031 --> 00:03:36,436
+Zaki: Then, do you know the nutritional value of these fruits?
+
+37
+00:03:38,944 --> 00:03:40,353
+Latifa: I know
+
+38
+00:03:40,551 --> 00:03:45,143
+Latifa: For the nutritional value of fruits, they are good for health too
+
+39
+00:03:45,191 --> 00:03:50,353
+Latifa: Then also as a vitamin supplement
+
+40
+00:03:50,421 --> 00:03:53,793
+Latifa: like vitamin C or vitamin B or something else
+
+41
+00:03:54,131 --> 00:03:54,803
+Zaki: Okay
+
+42
+00:03:55,542 --> 00:04:00,656
+Zaki: Then, lastly, have you ever followed a diet program?
+
+43
+00:04:00,655 --> 00:04:05,694
+Zaki: If yes, what foods or fruits do you eat when you are on a diet?
+
+44
+00:04:05,893 --> 00:04:10,173
+Latifa: For now I never go on a diet
+
+45
+00:04:10,911 --> 00:04:11,743
+Zaki: Okay, fine
+
+46
+00:04:13,592 --> 00:04:15,892
+Zaki: Okay, since the question is done
+
+47
+00:04:16,810 --> 00:04:19,110
+Zaki: it's your time to share screen
+
+48
+00:04:19,300 --> 00:04:24,112
+Zaki: So, you can share your smartphone display screen
+
+49
+00:05:29,151 --> 00:05:34,469
+Zaki: You can run some features on the fruitin app
+
+50
+00:05:35,748 --> 00:05:40,546
+Zaki: You can also give your opinion, either criticism or suggestions on the application
+
+51
+00:05:58,194 --> 00:06:00,495
+Latifa: Regarding the app
+
+52
+00:06:02,233 --> 00:06:03,915
+Latifa: It's been good
+
+53
+00:06:03,961 --> 00:06:11,939
+Latifa: However, maybe you can add more to the list of fruits
+
+54
+00:06:12,384 --> 00:06:13,489
+Latifa: Added more
+
+55
+00:06:13,517 --> 00:06:21,089
+Latifa: Then I was also looking for apples in the search, it doesn't seem to show up
+
+56
+00:06:22,427 --> 00:06:25,212
+Latifa: And for the others it's okay
+
+57
+00:06:27,510 --> 00:06:33,698
+Zaki: You can open or try other application features on the fruit list
+
+58
+00:06:33,896 --> 00:06:34,938
+Latifa: Is this it?
+
+59
+00:06:34,987 --> 00:06:35,488
+Zaki: yes
+
+60
+00:06:39,147 --> 00:06:40,037
+Latifa: Already
+
+61
+00:06:40,696 --> 00:06:45,791
+Zaki: Then you can go back, and you can try to open the bookmarks menu
+
+62
+00:06:45,814 --> 00:06:50,231
+Zaki: Does the feature work well or not
+
+63
+00:06:53,650 --> 00:06:55,561
+Zaki: What do you think?
+
+64
+00:06:57,418 --> 00:06:58,391
+Latifa: It's been good
+
+65
+00:06:58,379 --> 00:07:07,734
+Latifa: Here is also every fruit, given an explanation regarding the fruit itself
+
+66
+00:07:07,843 --> 00:07:14,334
+Latifa: So we know better the nutritional content of these fruits
+
+67
+00:07:15,503 --> 00:07:17,576
+Latifa: Is it good to eat or not
+
+68
+00:07:17,636 --> 00:07:20,446
+Latifa: Moreover, there are those who are running a diet program
+
+69
+00:07:21,976 --> 00:07:25,639
+Latifa: For Information it's good enough
+
+70
+00:07:26,206 --> 00:07:32,399
+Latifa: Maybe the only drawback is when I want to look for fruit, nothing shows up
+
+71
+00:07:46,708 --> 00:07:53,052
+Zaki: Then, do you think this application needs additional features?
+
+72
+00:07:54,752 --> 00:08:03,863
+Latifa: An additional feature may be the previous one, namely the addition of the list of fruits to be even more
+
+73
+00:08:03,942 --> 00:08:08,253
+Latifa: because I personally think that's enough
+
+74
+00:08:08,292 --> 00:08:12,981
+Latifa: But surely according to other people want to see more
+
+75
+00:08:13,180 --> 00:08:17,420
+Latifa: Want to find out information related to what the content of the fruit looks like
+
+76
+00:08:19,240 --> 00:08:21,540
+Latifa: Then also can be favorite
+
+77
+00:08:25,040 --> 00:08:36,416
+Latifa: if possible there is a favorite feature, so that users can add their favorite fruit to find information related to the nutritional content of the fruit
+
+78
+00:08:53,325 --> 00:08:57,165
+Zaki: Alright, I'll ask you a few more questions
+
+79
+00:08:58,004 --> 00:09:03,323
+Zaki: In your opinion, does this application meet your expectations?
+
+80
+00:09:05,413 --> 00:09:06,623
+Latifa: It's appropriate
+
+81
+00:09:07,802 --> 00:09:09,163
+Latifa: It's been really good
+
+82
+00:09:10,143 --> 00:09:10,826
+Zaki: Then,....
+
+83
+00:09:15,415 --> 00:09:19,103
+Zaki: The search feature in your opinion should be improved
+
+84
+00:09:20,511 --> 00:09:21,253
+Latifa: Iya
+
+85
+00:09:21,283 --> 00:09:24,523
+Zaki: And also increase the fruit list
+
+86
+00:09:24,992 --> 00:09:29,603
+Zaki: Apart from that, are there any other criticisms or suggestions regarding this application?
+
+87
+00:09:31,942 --> 00:09:34,276
+Latifa: Maybe add a user profile
+
+88
+00:09:41,014 --> 00:09:49,674
+Zaki: For the appearance of the application itself, can you give an opinion about the design of this application display?
+
+89
+00:09:51,213 --> 00:09:56,695
+Latifa: In my opinion the design is good, simple, and to the point with what we want to look for
+
+90
+00:09:56,764 --> 00:09:59,382
+Latifa: It's obvious
+
+91
+00:10:00,471 --> 00:10:03,052
+Latifa: no need to bother anymore to look for it
+
+92
+00:10:04,222 --> 00:10:08,942
+Zaki: So, do you think that the design of this application is in line with expectations?
+
+93
+00:10:09,822 --> 00:10:12,926
+Latifa: Yes, it's very much in line with expectations
+
+94
+00:10:15,115 --> 00:10:22,107
+Latifa: Then, do you think this application is useful enough to use?
+
+95
+00:10:23,286 --> 00:10:27,547
+Latifa: Very useful, moreover it's good for health too
+
+96
+00:10:27,596 --> 00:10:32,075
+Latifa: So whatever we eat we can see the content
+
+97
+00:10:32,374 --> 00:10:40,435
+Latifa: if it's good for our bodies, it will definitely be very useful information from this fruitin application
+
+98
+00:10:43,543 --> 00:10:50,491
+Zaki: Then in your opinion, is this application suitable for someone who is on a diet program?
+
+99
+00:10:51,686 --> 00:10:53,241
+Latifa: It fits perfectly
+
+100
+00:10:54,051 --> 00:11:01,168
+Latifa: It fits very well, so we can know what fruit we will eat each day
+
+101
+00:11:01,736 --> 00:11:05,961
+Latifa: So let's not continue to eat the fruit
+
+102
+00:11:06,030 --> 00:11:10,091
+Latifa: So it's been very good and helps people who are going on a diet program
+
+103
+00:11:24,891 --> 00:11:27,841
+Zaki: okay that's it, you can just close the app
+
+104
+00:11:28,810 --> 00:11:29,461
+Latifa: Good
+
+105
+00:11:36,981 --> 00:11:45,188
+Zaki: First, I want to ask a few more questions regarding this fruitin application
+
+106
+00:11:50,487 --> 00:12:03,496
+Zaki: In your opinion, is there anything that needs to be changed or added to this application?
+
+107
+00:12:06,286 --> 00:12:22,726
+Latifa: Maybe, just a little extra so that the icons of the fruits are minimized
+
+108
+00:12:23,105 --> 00:12:28,368
+Latifa: There were 2 columns, they can be reduced so that we can know more at a glance
+
+109
+00:12:30,317 --> 00:12:32,845
+Zaki: Described more?
+
+110
+00:12:33,757 --> 00:12:34,605
+Latifa: Iya
+
+111
+00:12:40,004 --> 00:12:48,006
+Zaki: Oh yeah, can you please rate the app and leave a comment on this app
+
+112
+00:12:48,206 --> 00:12:50,606
+Zaki: Can you share the screen one more time?
+
+113
+00:12:59,925 --> 00:13:01,639
+Latifa: wait, share screen again?
+
+114
+00:13:01,789 --> 00:13:02,290
+Zaki: Yes
+
+115
+00:13:02,350 --> 00:13:10,195
+Zaki: Then you can rate or comment on the app in the play store
+
+116
+00:13:10,394 --> 00:13:11,625
+Latifa: In the play store, right?
+
+117
+00:13:13,974 --> 00:13:15,473
+Latifa: Would you give a star?
+
+118
+00:13:15,525 --> 00:13:18,923
+Zaki: Yes, it is appropriate to rate this fruitin application
+
+119
+00:14:42,121 --> 00:14:43,072
+Latifa: Done
+
+120
+00:14:44,341 --> 00:14:48,021
+Zaki: Thank you to Latifa for her assessment
+
+121
+00:14:49,010 --> 00:14:52,341
+Zaki: Okay, you can stop sharing screen
+
+122
+00:14:55,570 --> 00:14:56,176
+Latifa: Done
+
+123
+00:14:56,985 --> 00:15:03,247
+Zaki: Ok, Thanks to Latifatul Fitri for being available to be a respondent
+
+124
+00:15:03,236 --> 00:15:06,207
+Zaki: in today's user testing session
+
+125
+00:15:07,276 --> 00:15:11,858
+Zaki: Thank you for the time and opportunity
+
+126
+00:15:11,977 --> 00:15:16,533
+Zaki: More or less sorry, wassalamualikum wr.wb
+
+127
+00:15:16,982 --> 00:15:19,033
+Latifa: Wa'alaikumsalam wr.wb
+
+128
+00:15:19,233 --> 00:15:21,533
+Zaki: Thanks to Latifa

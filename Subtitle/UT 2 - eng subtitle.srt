@@ -1,0 +1,527 @@
+1
+00:00:03,399 --> 00:00:07,113
+Zaki: Welcome to Wardah Nabila Rusyda
+
+2
+00:00:07,471 --> 00:00:13,699
+Zaki: Thank you for being available to do user testing today
+
+3
+00:00:14,000 --> 00:00:22,132
+Zaki: First of all, my name is Zakiyah Hamidah, a computer science student from Jakarta State University
+
+4
+00:00:24,524 --> 00:00:27,149
+Zaki: Thanks for the availability
+
+5
+00:00:27,199 --> 00:00:31,100
+Zaki: First I will explain first
+
+6
+00:00:32,424 --> 00:00:35,037
+Today's user testing scenario
+
+7
+00:00:38,412 --> 00:00:44,447
+Zaki: I will explain the fruitin application first
+
+8
+00:00:45,773 --> 00:00:52,158
+Zaki: Fruitin application is an application that displays the nutritional value of fruits
+
+9
+00:00:52,338 --> 00:00:58,812
+Zaki: This application will help users to find some nutritional content in fruits
+
+10
+00:00:59,004 --> 00:01:08,417
+Zaki: Then for today's user testing scenario, after the introduction, I will ask some basic questions first
+
+11
+00:01:08,650 --> 00:01:20,924
+Zaki: After that, I will give Wardah time to display Wardah's smartphone share screen
+
+12
+00:01:21,188 --> 00:01:31,224
+Zaki: and also give wardah time to install the fruitin application and run it on your smartphone
+
+13
+00:01:31,650 --> 00:01:40,924
+Zaki: Then after running the application you can give an opinion in the form of criticism or suggestions on the application
+
+14
+00:01:41,262 --> 00:01:46,237
+Zaki: and also I will ask questions regarding the fruitin application
+
+15
+00:01:46,436 --> 00:01:53,573
+Zaki: So let's just start today's user testing with basic questions
+
+16
+00:01:54,622 --> 00:01:59,449
+Zaki: First of all can you introduce yourself first?
+
+17
+00:01:59,639 --> 00:02:09,160
+Zaki: starting from name, age, occupation, domicile, play store email address, cellphone type, and android version level?
+
+18
+00:02:11,908 --> 00:02:14,749
+Wardah: Introduce my name Wardah Nabila Rusyda
+
+19
+00:02:14,798 --> 00:02:16,789
+Wardah: 22 years old
+
+20
+00:02:18,987 --> 00:02:20,789
+Wardah: as a student
+
+21
+00:02:21,628 --> 00:02:23,689
+Wardah: domiciled in Gresik
+
+22
+00:02:24,337 --> 00:02:28,829
+Wardah: The email address for the play store is wardahnr@gmail.com
+
+23
+00:02:30,287 --> 00:02:35,440
+Wardah: The type of cellphone is Samsung Android, Android version 11
+
+24
+00:02:36,969 --> 00:02:42,210
+Zaki: Then, the next question, Do you or your family like fruit?
+
+25
+00:02:45,627 --> 00:02:49,870
+Wardah: Honestly, for me, I only like certain fruits
+
+26
+00:02:49,948 --> 00:02:54,442
+Wardah: But if my family likes it, I usually eat fruit every day
+
+27
+00:02:57,061 --> 00:03:00,979
+Zaki: What fruit is Wardah's or family's favorite fruit?
+
+28
+00:03:02,908 --> 00:03:07,479
+Wardah: Personally, I like mango or papaya
+
+29
+00:03:07,509 --> 00:03:12,457
+Warsah: My family usually eats apples or pears
+
+30
+00:03:15,216 --> 00:03:19,118
+Zaki: Then, do you or your family often consume fruit?
+
+31
+00:03:19,167 --> 00:03:23,454
+Zaki: If yes, how often do you or your family eat fruit?
+
+32
+00:03:27,822 --> 00:03:30,654
+Wardah: I rarely eat fruit lately
+
+33
+00:03:31,623 --> 00:03:34,341
+Wardah: But if it's season, for example, every day
+
+34
+00:03:34,939 --> 00:03:37,781
+Wardah: Because mango is seasonal, so when it's season it can be every day
+
+35
+00:03:37,820 --> 00:03:41,248
+Wardah: But if it's not in season, maybe once a week
+
+36
+00:03:43,976 --> 00:03:46,276
+Wardah: If the family eats fruit every day
+
+37
+00:03:51,644 --> 00:03:58,289
+Zaki: Then, do you often remind others to eat fruit?
+
+38
+00:04:01,627 --> 00:04:04,779
+Wardah: No, because I rarely eat fruit myself
+
+39
+00:04:06,927 --> 00:04:12,369
+Zaki: Then, do you know the nutritional value of the fruits you consume?
+
+40
+00:04:17,307 --> 00:04:20,985
+Wardah: Depends on the fruit
+
+41
+00:04:21,574 --> 00:04:24,941
+Wardah: usually the famous ones, like oranges, contain vitamin C
+
+42
+00:04:24,990 --> 00:04:27,011
+Wardah: If the others don't know
+
+43
+00:04:27,488 --> 00:04:27,971
+Zaki: Okay
+
+44
+00:04:33,200 --> 00:04:39,092
+Zaki: Then, the last question, Have you ever or are you following a diet program?
+
+45
+00:04:39,291 --> 00:04:44,619
+Zaki: If yes, what foods or fruits do you eat when you are on a diet?
+
+46
+00:04:50,218 --> 00:04:52,519
+Wardah: If you join a diet program, never
+
+47
+00:04:53,177 --> 00:04:56,796
+Wardah: But if you're on your own diet, you just eat less
+
+48
+00:04:56,995 --> 00:05:01,932
+Wardah: If you eat fruit for your diet, never and don't go on a diet with fruit
+
+49
+00:05:02,350 --> 00:05:04,312
+Wardah: just reduce the amount of food
+
+50
+00:05:04,341 --> 00:05:06,500
+Zaki: So just reduce the amount of food huh
+
+51
+00:05:06,980 --> 00:05:07,590
+Wardah: Yes
+
+52
+00:05:08,737 --> 00:05:12,580
+Zaki: Fine, since the question is finished
+
+53
+00:05:12,878 --> 00:05:14,603
+Zaki: Time to share screen
+
+54
+00:05:14,622 --> 00:05:21,293
+Zaki: so you can display the share screen of your smartphone display
+
+55
+00:05:21,722 --> 00:05:23,611
+Zaki: and install the fruitin application
+
+56
+00:05:44,989 --> 00:05:47,289
+Zaki: Can you share the screen?
+
+57
+00:05:48,937 --> 00:05:51,990
+Wardah: Yes, wait..
+
+58
+00:05:52,100 --> 00:05:52,631
+Zaki: Okay
+
+59
+00:06:05,139 --> 00:06:06,624
+Wardah: Have you seen it?
+
+60
+00:06:07,644 --> 00:06:08,914
+Zaki: Already seen
+
+61
+00:06:23,902 --> 00:06:24,858
+Wardah: Fruitin ya?
+
+62
+00:06:25,057 --> 00:06:25,508
+Zaki: Ya
+
+63
+00:08:10,556 --> 00:08:14,696
+Zaki: Once installed later you can run the application
+
+64
+00:08:31,385 --> 00:08:33,960
+Wardah: So it's up to me to explore, right?
+
+65
+00:08:34,049 --> 00:08:34,500
+Zaki: Yes
+
+66
+00:08:34,629 --> 00:08:38,094
+Zaki: You can explore the app
+
+67
+00:08:59,734 --> 00:09:04,681
+Zaki: Yeah Maybe there's a little problem here in the search section
+
+68
+00:09:07,701 --> 00:09:08,627
+Wardah: Oh okay
+
+69
+00:09:37,384 --> 00:09:41,442
+Zaki: What do you think about Wardah?
+
+70
+00:09:41,908 --> 00:09:45,572
+Zaki: What do you think about this fruitin application?
+
+71
+00:09:49,631 --> 00:09:50,742
+Wardah: Good
+
+72
+00:09:50,801 --> 00:09:56,082
+Wardah: This is to find out the nutrition of fruits, right?
+
+73
+00:09:56,112 --> 00:09:56,642
+Zaki: Yes
+
+74
+00:09:57,861 --> 00:10:02,383
+Zaki: The purpose of this application is to display the nutritional content of fruits
+
+75
+00:10:08,522 --> 00:10:13,602
+Zaki: what do you think about the groove on this fruitin app?
+
+76
+00:10:14,291 --> 00:10:18,647
+Zaki: Is the plot easy to understand or is it still complicated?
+
+77
+00:10:25,856 --> 00:10:35,041
+Wardah: It's not confusing because we can immediately choose the fruit we want to see the nutrition of the fruit
+
+78
+00:10:35,140 --> 00:10:39,463
+Wardah: The bookmarks can't appear yet, right?
+
+79
+00:10:39,522 --> 00:10:45,050
+Zaki: Yes, it looks like there is a problem with this bookmarks feature
+
+80
+00:10:45,100 --> 00:10:50,961
+Zaki: so later it will probably be an input for me to fix it
+
+81
+00:10:53,040 --> 00:10:53,626
+Wardah: Yes
+
+82
+00:10:55,105 --> 00:10:57,026
+Wardah: It can also look like this
+
+83
+00:11:00,394 --> 00:11:01,367
+Wardah: Great
+
+84
+00:11:02,357 --> 00:11:07,377
+Zaki: According to Wardah, are there any other problems with this fruitin application?
+
+85
+00:11:12,908 --> 00:11:21,585
+Wardah: I don't know if it's made for Indonesians or foreigners because when I was looking for mangoes, it turned out to be mango
+
+86
+00:11:21,621 --> 00:11:24,355
+Wardah: so I can't find it
+
+87
+00:11:26,764 --> 00:11:28,615
+Wardah: so let's just name it
+
+88
+00:11:29,517 --> 00:11:31,607
+Zaki: The problem with the language, huh?
+
+89
+00:11:32,026 --> 00:11:32,667
+Wardah: Yes
+
+90
+00:11:32,817 --> 00:11:36,637
+Wardah: this is English, I think it's Indonesian
+
+91
+00:11:42,966 --> 00:11:53,549
+Zaki: Then, what do you think about the appearance of this fruitin application design?
+
+92
+00:11:53,649 --> 00:11:57,929
+Zaki: Has it met your expectations or is it still not right?
+
+93
+00:12:01,479 --> 00:12:06,502
+Wardah: Maybe in my opinion the appearance is on the sugar icon and others
+
+94
+00:12:09,001 --> 00:12:18,479
+Wardah: colored on a white background on the icon so that it blends in with this pink background
+
+95
+00:12:24,413 --> 00:12:28,923
+Wardah: if you can maybe change it to an icon that doesn't have a background color
+
+96
+00:12:30,373 --> 00:12:31,921
+Wardah: So it looks better
+
+97
+00:12:32,721 --> 00:12:35,021
+Zaki: Thank you for entering wardah
+
+98
+00:12:35,780 --> 00:12:36,431
+Wardah: Yes
+
+99
+00:12:36,570 --> 00:12:44,126
+Zaki: Then, do you think this application is useful enough to use?
+
+100
+00:12:46,806 --> 00:12:47,876
+Wardah: Helpful
+
+101
+00:12:52,535 --> 00:13:02,271
+Wardah: Maybe at the beginning you can give a pop up that this application is to see the nutrition of fruits
+
+102
+00:13:03,410 --> 00:13:04,613
+Zaki: Information pop up
+
+103
+00:13:09,933 --> 00:13:16,721
+Wardah: Yes, the initial appearance is like the sentence "welcome", so it looks more friendly
+
+104
+00:13:23,480 --> 00:13:25,780
+Zaki: Thank you for entering
+
+105
+00:13:26,719 --> 00:13:28,807
+Zaki: Then, next question
+
+106
+00:13:28,906 --> 00:13:35,066
+Zaki: Do you think this application is suitable for someone who is on a diet program?
+
+107
+00:13:38,216 --> 00:13:39,940
+Wardah: For the diet program.......
+
+108
+00:13:43,009 --> 00:13:49,815
+Wardah: For example, if someone else's goal is to eat fruit
+
+109
+00:13:50,694 --> 00:14:01,797
+Wardah: Maybe we can add features for people who are on a diet, such as simple questions or quizzes
+
+110
+00:14:01,995 --> 00:14:07,776
+Wardah: Like the question "do you want fruit with how many calories?"
+
+111
+00:14:07,946 --> 00:14:14,267
+Wardah: it's like a recommendation of which fruit is better by using a simple quiz
+
+112
+00:14:15,745 --> 00:14:17,727
+Zaki: additional recommended features you mean ?
+
+113
+00:14:17,806 --> 00:14:18,417
+Wardah: Yes
+
+114
+00:14:20,896 --> 00:14:23,197
+Zaki: Thank you for entering it again
+
+115
+00:14:26,887 --> 00:14:34,011
+Zaki: After this, can you give a rating on the fruitin app on the play store?
+
+116
+00:14:34,211 --> 00:14:40,544
+Zaki: Give stars and also comments for feedback on this application
+
+117
+00:14:42,693 --> 00:14:43,474
+Wardah: Okay
+
+118
+00:14:44,443 --> 00:14:46,229
+Wardah: Now or later?
+
+119
+00:14:46,593 --> 00:14:48,179
+Zaki: Can you do it now
+
+120
+00:15:04,018 --> 00:15:05,197
+Wardah: same comment?
+
+121
+00:15:05,206 --> 00:15:10,297
+Zaki: Yes, as input for the future
+
+122
+00:16:22,987 --> 00:16:28,751
+Zaki: Ok, thanks to Wardah, you can stop sharing screen
+
+123
+00:16:30,671 --> 00:16:36,023
+Zaki: Finally, I will give a summary of today's user testing
+
+124
+00:16:36,382 --> 00:16:45,275
+Zaki: So in your opinion, the features that are lacking or there are problems are in the search feature and the bookmarks feature
+
+125
+00:16:45,634 --> 00:16:55,259
+Zaki: Then also you give suggestions to add a fruit recommendation feature for people who are on a diet program
+
+126
+00:16:55,739 --> 00:17:03,181
+Zaki: Then you also give suggestions on the icon in the fruit details
+
+127
+00:17:03,589 --> 00:17:05,001
+Zaki: Is it really wardah?
+
+128
+00:17:06,580 --> 00:17:07,531
+Wardah: That's right
+
+129
+00:17:08,450 --> 00:17:14,259
+Zaki: Okay then let's end the user testing session today
+
+130
+00:17:14,358 --> 00:17:22,367
+Zaki: Thanks again to Wardah Nabilah Rusyda for being available
+
+131
+00:17:22,677 --> 00:17:26,962
+Zaki: Thank you, more or less sorry, Wassalamualaikum wr.wb.
+
+132
+00:17:27,942 --> 00:17:29,512
+Wardah: Waalaikumsalam wr.wb.
