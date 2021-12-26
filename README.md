@@ -18,20 +18,20 @@ Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitina
        Link Record
    
  * User Profile - 2
- *> Nama: Wardah Nabila Rusyda
- *> Umur: 22 tahun
-   Status: Mahasiswa
-   Tanggal UT: Sabtu, 25 Desember 2021
-   Link Record
-   
+
+       Nama: Wardah Nabila Rusyda
+       Umur: 22 tahun
+       Status: Mahasiswa
+       Tanggal UT: Sabtu, 25 Desember 2021
+       Link Record
    
  * User Profile - 3 
-   Nama: Cindi Tri Fitikasari
-   Umur: 21 tahun
-   Status: Mahasiswa
-   Tanggal UT: Sabtu, 25 Desember 2021
-   Link Record 
-
+ 
+       Nama: Cindi Tri Fitikasari
+       Umur: 21 tahun
+       Status: Mahasiswa
+       Tanggal UT: Sabtu, 25 Desember 2021
+       Link Record 
 
 ## Design  
 ![Image of UI Design](https://github.com/kiyahza27/Fruitin/blob/main/Screenshots/fruitin%20UI%20design.png)
