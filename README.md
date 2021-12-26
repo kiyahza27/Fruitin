@@ -15,7 +15,7 @@ Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitina
        Umur: 24 tahun
        Pekerjaan: Customer Service
        Tanggal UT: Sabtu, 25 Desember 2021
-       Link Record
+       Link Record : https://youtu.be/24NfbzG4L8c
    
  * User Profile - 2
 
@@ -23,7 +23,7 @@ Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitina
        Umur: 22 tahun
        Status: Mahasiswa
        Tanggal UT: Sabtu, 25 Desember 2021
-       Link Record
+       Link Record: https://youtu.be/_D9ab3CKZzM
    
  * User Profile - 3 
  
