@@ -10,11 +10,11 @@ Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitina
 
 ## User Tester Profile
  * User Profile - 1
-   Nama: Latifatul Fitri
-   Umur: 24 tahun
-   Pekerjaan: Customer Service
-   Tanggal UT: Sabtu, 25 Desember 2021
-   Link Record
+   > Nama: Latifatul Fitri
+   > Umur: 24 tahun
+   > Pekerjaan: Customer Service
+   > Tanggal UT: Sabtu, 25 Desember 2021
+   > Link Record
    
    
  * User Profile - 2
