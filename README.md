@@ -18,8 +18,8 @@ Link : https://play.google.com/store/apps/details?id=com.zakiyahhamidah.fruitina
    
    
  * User Profile - 2
-   Nama: Wardah Nabila Rusyda
-   Umur: 22 tahun
+ *> Nama: Wardah Nabila Rusyda
+ *> Umur: 22 tahun
    Status: Mahasiswa
    Tanggal UT: Sabtu, 25 Desember 2021
    Link Record
